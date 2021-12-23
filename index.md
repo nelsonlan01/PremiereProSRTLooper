@@ -1,5 +1,6 @@
 ## Background of Tool
-This tool is develop since school reqired each video should have subtitle. Every coin have two side, Premiere Pro can import .srt file, which more easy to generate subtitle rather than copy Legacy Title (text card) manually or using UI path machines. However, you should import a strict formatted with actual syntax of file to Premiere Pro, which easily mess it up.
+
+This tool is developed since the school required each video should have subtitles. Every coin has two sides, Premiere Pro can import .srt file, which more easy to generate subtitles rather than copy Legacy Title (text card) manually or using UI path machines. However, you should import a strict format with the actual syntax of the file to Premiere Pro, which easily messes it up.
 
 So, I invent (make) a tool for me (or those in need), to generate .srt file more friendly. Save more time and cost.
 
